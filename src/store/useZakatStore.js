@@ -13,7 +13,6 @@ const initialZakatState = {
   goldSilver: {
     goldValue: 0,
     silverValue: 0, 
-    cashOnHand: 0, // Cash value of gold/silver jewelry
     jewelryUsageType: 'personal_use', // 'personal_use' | 'investment'
   },
   
